@@ -3,7 +3,7 @@
 # Muhammad Rafy
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intelligent%2C+scalable+software;Full-Stack+%7C+LLM+Agents+%7C+Machine+Learning;Co-Founder+%40+Zylo+Technologies;Open+to+impactful+roles+%26+collaborations" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+DevOps+%7C+Cloud;Agentic+%26+Generative+AI+Developer;Building+RAG+Systems+%26+AI+Workflows;Co-Founder+%40+Zylo+Technologies;Open+to+impactful+roles+%26+collaborations" alt="Typing animation" />
 </a>
 
 <br/>
@@ -22,16 +22,48 @@
 
 <div align="center">
 
-Full-stack engineer and AI/ML specialist from **Lahore, Pakistan 🇵🇰** with **5+ years** of experience building modern web and AI products.<br/>
-I turn complex engineering problems into clean, scalable and beautifully designed systems.
+Full-stack engineer, **DevOps** specialist and **Agentic & Generative AI** developer from **Lahore, Pakistan 🇵🇰** with **5+ years** of experience.<br/>
+I build modern web products, run custom server infrastructure on cloud, and ship RAG systems and AI workflows.
 
 <br/>
 
 | 🔭 Role | 🎓 Education | 🌱 Focus | 🚀 Status |
 | :---: | :---: | :---: | :---: |
-| Co-Founder & Lead Engineer<br/>[Zylo Technologies](https://wearezylo.com) | BS Computer Science<br/>ML & Data Science | Distributed Web Apps<br/>LLM Agents · ML | Available for roles<br/>& collaborations |
+| Co-Founder & Lead Engineer<br/>[Zylo Technologies](https://wearezylo.com) | BS Computer Science<br/>ML & Data Science | Agentic AI · RAG<br/>DevOps · Full-Stack | Available for roles<br/>& collaborations |
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=80&section=header&text=What%20I%20Do&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="What I Do" />
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 Agentic & Generative AI</h3>
+      <p>Experienced in building <b>RAG pipelines</b>, LLM agents and end-to-end <b>AI workflows</b> that turn models into reliable products.</p>
+      <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLM_Agents-7928CA?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI_Workflows-0A66C2?style=flat-square" />
+      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ DevOps & Servers</h3>
+      <p>Manage <b>custom servers</b> end to end: setup, reverse proxying, containerization, deployment and maintenance on <b>AWS</b> and <b>Azure</b>.</p>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐 Full-Stack Engineering</h3>
+      <p>Design and ship scalable web apps with modern frontends, fast APIs and clean, maintainable architecture.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -44,13 +76,22 @@ I turn complex engineering problems into clean, scalable and beautifully designe
 
 <br/><br/>
 
-**Backend & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,docker,vercel&theme=dark" alt="Backend" />
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres&theme=dark" alt="Backend" />
 
 <br/><br/>
 
-**AI, ML & Data**<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI and ML" />
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,bash,vercel,githubactions&theme=dark" alt="DevOps and Cloud" />
+
+<br/><br/>
+
+**AI, GenAI & Data**<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI and ML" /><br/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Agents-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Workflows-0A66C2?style=flat-square" />
 
 <br/><br/>
 
