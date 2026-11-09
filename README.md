@@ -1,138 +1,138 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=220&section=header&text=Muhammad%20Rafy&fontSize=48&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descFontSize=19&descAlignY=58&fontColor=ffffff" width="100%" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Rafy&fontSize=56&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=20&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Rafy header" />
 
-<div align="center">
-  <a href="https://portfolio-muhammad-rafys-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intelligent%2C+scalable+software;Full-Stack+%7C+LLM+Agents+%7C+Machine+Learning;Co-Founder+%40+Zylo+Technologies;Open+to+impactful+roles+%26+collaborations" alt="Typing animation" />
   </a>
-  <a href="https://wearezylo.com" target="_blank">
-    <img src="https://img.shields.io/badge/🏢_Zylo_Technologies-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company" />
-  </a>
-  <a href="mailto:mrafybasra2020@gmail.com">
-    <img src="https://img.shields.io/badge/📫_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mrafy-7">
-    <img src="https://img.shields.io/badge/GitHub_Followers-0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+  <br/><br/>
+
+  <a href="https://portfolio-muhammad-rafys-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://wearezylo.com"><img src="https://img.shields.io/badge/Zylo_Technologies-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zylo Technologies" /></a>
+  <a href="mailto:mrafybasra2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mrafy-7"><img src="https://img.shields.io/github/followers/mrafy-7?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mrafy-7&label=Profile%20Views&style=for-the-badge&color=2c5364" alt="Profile views" />
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Muhammad Rafy (Abdul Rafy)
-role: Full-Stack Engineer & AI/ML Specialist
-location: Lahore, Pakistan 🇵🇰
-passion: Building intelligent, scalable, and beautifully crafted software systems
-current_focus: Distributed Web Apps, LLM Agentic Workflows, and Machine Learning
-experience: 5+ Years crafting modern web & AI solutions
-status: Available for impactful roles & collaborations 🚀
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+I'm **Muhammad Rafy**, a full-stack engineer and AI/ML specialist from **Lahore, Pakistan 🇵🇰**, with 5+ years of experience crafting modern web and AI solutions. I turn complex engineering problems into clean, scalable and beautifully designed systems.
+
+- 🔭 Co-Founder & Lead Engineer at [**Zylo Technologies**](https://wearezylo.com)
+- 🎓 BS in Computer Science, focused on Machine Learning & Data Science
+- 🌱 Currently exploring distributed web apps, LLM agentic workflows and ML
+- ⚡ Fun fact: I love experimenting with agentic frameworks and high-performance UI
+- 🚀 **Available for impactful roles & collaborations**
+
+  </td>
+  <td width="42%" valign="top">
+
+```ts
+const rafy = {
+  role: "Full-Stack Engineer",
+  focus: ["Web", "AI/ML", "LLM Agents"],
+  location: "Lahore, PK",
+  experience: "5+ years",
+  building: "Zylo Technologies",
+  openToWork: true,
+};
 ```
 
-- 🔭 **Co-Founder & Lead Engineer** building cutting-edge web & AI solutions at **Zylo Technologies**.
-- 🎓 **BS in Computer Science** with a deep concentration in Machine Learning & Data Science.
-- 💡 Passionate about transforming complex engineering challenges into clean, elegant, user-friendly architectures.
-- ⚡ **Fun Fact:** When not training models or architecting full-stack systems, I love exploring emerging agentic frameworks and high-performance UI designs.
+  </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend Engineering** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/> |
-| **Backend & Cloud** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> |
-| **AI, ML & Data Science** | <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/LLM_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white"/> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Git-F50532?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> |
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,threejs,html,css&theme=dark" alt="Frontend" />
+
+**Backend & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,docker,vercel&theme=dark" alt="Backend" />
+
+**AI, ML & Data**<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI and ML" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 
 </div>
 
----
+<br/>
 
-### 🛀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌢 <a href="https://portfolio-muhammad-rafys-projects.vercel.app">Personal Interactive 3D Portfolio</a></h4>
-      <p>Modern personal showcase engineered with <b>Next.js 14</b>, <b>Three.js</b>, <b>Framer Motion</b>, and <b>Tailwind CSS</b> featuring high-fidelity animations, project galleries, and contact channels.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Three.js-Interactive-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwindcss" />
-      </p>
+      <h3>🌐 <a href="https://portfolio-muhammad-rafys-projects.vercel.app">Interactive 3D Portfolio</a></h3>
+      <p>A personal showcase with high-fidelity 3D scenes, smooth animations, a project gallery and contact channels.</p>
+      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-049EF4?style=flat-square&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>�� <a href="https://github.com/mrafy-7/Pulsify-Heart-Disease-Prediction-in-Django">Pulsify — Heart Disease Prediction</a></h4>
-      <p>Healthcare diagnostic system powered by <b>Django</b> and <b>Machine Learning</b> classification models, delivering accurate early cardiovascular risk assessments via a clean clinical dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-Backend-092E20?style=flat-square&logo=django" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-ML_Model-F7931E?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-Clinical_AI-3776AB?style=flat-square&logo=python" />
-      </p>
+      <h3>❤️ <a href="https://github.com/mrafy-7/Pulsify-Heart-Disease-Prediction-in-Django">Pulsify</a></h3>
+      <p>Heart disease prediction system using ML classification models, delivering early cardiovascular risk assessment through a clean clinical dashboard.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/mrafy-7/Jarvis">Jarvis & Jarvis-AI Suite</a></h4>
-      <p>Next-generation intelligent assistant platform featuring automated conversational workflows, task orchestration, modular integrations, and clean TypeScript/React UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-App_Router-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-Strict-007ACC?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/AI-Automation-7928CA?style=flat-square" />
-      </p>
+      <h3>🤖 <a href="https://github.com/mrafy-7/Jarvis">Jarvis AI Suite</a></h3>
+      <p>An intelligent assistant platform with automated conversational workflows, task orchestration and modular integrations behind a clean React UI.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Automation-7928CA?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛍️ <a href="https://github.com/mrafy-7/store2u">Store2U / Store2U.ca E-Commerce</a></h4>
-      <p>Full-fledged multi-tenant modern commerce engine with dynamic catalogue management, shopping cart state persistence, checkout pipelines, and mobile-first responsive architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full_Stack-E--Commerce-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Scalable-Production-orange?style=flat-square" />
-      </p>
+      <h3>🛍️ <a href="https://github.com/mrafy-7/store2u">Store2U E-Commerce</a></h3>
+      <p>A modern multi-tenant commerce engine with dynamic catalogue management, persistent cart, checkout pipeline and a mobile-first responsive design.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Full_Stack-2c5364?style=flat-square" />
+      <img src="https://img.shields.io/badge/Production_Ready-2EA44F?style=flat-square" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Activity & Metrics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrafy-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Rafy's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafy-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrafy-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafy-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mrafy-7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrafy-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br/>
 
----
-
-### 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
-  <p>I'm always keen to discuss new opportunities, collaborate on open-source initiatives, or chat about AI & web architecture.</p>
+  <p><i>Always keen to talk about new opportunities, open-source collaboration, or AI & web architecture.</i></p>
 
-  <a href="https://portfolio-muhammad-rafys-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mrafybasra2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mrafybasra2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://wearezylo.com">
-    <img src="https://img.shields.io/badge/Website-wearezylo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zylo"/>
-  </a>
+  <a href="https://portfolio-muhammad-rafys-projects.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mrafybasra2020@gmail.com"><img src="https://img.shields.io/badge/mrafybasra2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wearezylo.com"><img src="https://img.shields.io/badge/wearezylo.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zylo" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt="Footer" />
 </div>
